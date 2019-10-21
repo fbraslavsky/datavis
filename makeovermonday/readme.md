@@ -40,7 +40,7 @@
 
 ### Week 40
 ##### London Population Predictions
-In progress
+[PowerBI](https://raw.githubusercontent.com/fbraslavsky/infovis/master/makeovermonday/w40.PNG)
 
 
 

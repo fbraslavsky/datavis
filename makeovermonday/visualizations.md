@@ -42,5 +42,11 @@
 ##### London Population Predictions
 [PowerBI](https://raw.githubusercontent.com/fbraslavsky/infovis/master/makeovermonday/w40.PNG)
 
+### Week 41
+##### Donations accepted by political parties
+[PowerBI](https://raw.githubusercontent.com/fbraslavsky/infovis/master/makeovermonday/w41.PNG)
+
+
+
 
 

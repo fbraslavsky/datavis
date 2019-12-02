@@ -24,7 +24,7 @@
 
 ### Week 37
 ##### James Patterson Book Checkouts at Seattle Libraries
-[PowerBI](https://raw.githubusercontent.com/fbraslavsky/infovis/master/makeovermonday/w37.PNG)
+[PowerBI](https://raw.githubusercontent.com/fbraslavsky/infovis/master/makeovermonday/w37.png)
 
 ### Week 38
 ##### Positive Impact Events – Committments from the Event Industry for the Sustainable Development Goals
